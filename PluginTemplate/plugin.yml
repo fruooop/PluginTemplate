@@ -1,0 +1,10 @@
+main: fun.nothaving.XXX.Main
+name: XXX
+version: 0.0.1
+author: Fruooop (MC MeatNugger)
+api-version: 1.13
+description: ---
+commands:
+    commandAbbreviation:
+      description: Description of command
+      usage: /<command> [Extra parameters (if applicable)]
