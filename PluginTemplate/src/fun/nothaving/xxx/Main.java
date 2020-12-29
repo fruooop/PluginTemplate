@@ -12,7 +12,7 @@ public class Main extends JavaPlugin{
 	//When plugin is Enabled
 	@Override
 	public void onEnable() {
-		PluginManager pm = getServer().getPluginManager();
+		//PluginManager pm = getServer().getPluginManager();
 		getLogger().info(pluginName + " has been enabled.");
 	}
 	
